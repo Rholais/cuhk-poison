@@ -1,2 +1,2 @@
 # record
-Negotiate Records
+Negotiation Records
