@@ -157,6 +157,31 @@ New JCPGH2-3 residents/CUHK research post-graduates
 ```
 
 ### 学生采集的现场照片
+#### Rooms
+![Room 1](https://github.com/Rholais/cuhk-poison/blob/master/img/room-01.png)
+
+![Room 2](https://github.com/Rholais/cuhk-poison/blob/master/img/room-02.png)
+
+![Room 3](https://github.com/Rholais/cuhk-poison/blob/master/img/room-03.png)
+
+#### Test Results
+![Result 1](https://github.com/Rholais/cuhk-poison/blob/master/img/test-01.png)
+
+![Result 2](https://github.com/Rholais/cuhk-poison/blob/master/img/test-02.png)
+
+#### Unfinished Works
+![Unfinished Work 1](https://github.com/Rholais/cuhk-poison/blob/master/img/unfinish-01.png)
+
+![Unfinished Work 2](https://github.com/Rholais/cuhk-poison/blob/master/img/unfinish-02.png)
+
+![Unfinished Work 3](https://github.com/Rholais/cuhk-poison/blob/master/img/unfinish-03.png)
+
+![Unfinished Work 4](https://github.com/Rholais/cuhk-poison/blob/master/img/unfinish-04.png)
+
+![Unfinished Work 5](https://github.com/Rholais/cuhk-poison/blob/master/img/unfinish-05.png)
+
+![Unfinished Work 6](https://github.com/Rholais/cuhk-poison/blob/master/img/unfinish-06.png)
+
 ### 微信号:玖玖八十一）学生对Karen回复邮件的质疑点：
 ```
 但是我觉得Karen的回复有三点有待商榷的。
