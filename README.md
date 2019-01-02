@@ -1,7 +1,7 @@
 # cuhk-poison
 Documents on Poisonous Air inside Jockey Club Postgraduate Hall 2 and 3 in the Chinese University of Hong Kong
 
-## 2018年12月26日
+## 2018/12/26
 赛马会学生宿舍二三座（Jockey Club Postgraduate Hall 2,3 ）
 具体情况如下：
 1. JCPGH2,3 内外仍然再施工，其内墙仍在粉刷，PGH office 的工作人员以担心装修可能会发生误删禁止住宿生进入装修区域参观区探访。
@@ -13,7 +13,7 @@ Documents on Poisonous Air inside Jockey Club Postgraduate Hall 2 and 3 in the C
 > 对于开窗的问题，Karen表示房间有纱窗，开窗方法是往上推，远观看不到
 > Karen最后表示，即使I House的同学在第二天的官方通知的时候不愿意搬，12月31日前也要将房间钥匙交还给I House.并且始终认为safety department的结果不会有问题，不让不同意搬家的同学早上第二日7点前email到office邮箱通知PGH Office。同时也邀请PGHRA以及其余宿生代表一同查看JCPGH2,3的宿舍情况。
 
-## 2018年12月27日
+## 2018/12/27
 PGHRA与学生代表于今日一同查看了宿舍，宿舍内可以直接问道刺激性的装修气味，safety department 与PGH Office的工作人员James口头承认了以下事实：
 1. 学校的检测设备不足，只能对两项指标进行检测， 而实际上香港的检测标准应该有十一项之多。
 2. 学校之前进行的检测，并没有严格按照标准关窗后八小时后进行检测，二十只关了十几分钟窗就进行检测。
@@ -191,4 +191,11 @@ New JCPGH2-3 residents/CUHK research post-graduates
 还有一个我自己的疑问，这个楼还没有最后竣工吧，如果还有装修问题。那么，说明他竣工验收和环评这些都没有做。（如果做了，请让我们看到报告。）学校怎么敢让我们住进去。
 ```
 
-## 2018年12月28日
+## 2018/12/30
+### Windows Are Open
+* Windows on Dec 26
+![Closed Windows](https://github.com/Rholais/cuhk-poison/blob/master/img/window-26.jpeg)
+* Windows on Dec 30
+![Open Windows](https://github.com/Rholais/cuhk-poison/blob/master/img/window-30.jpeg)
+
+## 2018/12/31
